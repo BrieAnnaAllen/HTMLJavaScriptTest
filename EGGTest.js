@@ -7,4 +7,5 @@ function setTitle(titleSelect){
         case 'wise-sleuth': val = "WISE | SLEUTH"; break;
     }
     document.getElementById('class-title').value = val;
+    console.log("I am being reached");
 }
