@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "WildScratch"; 
+    src: url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.eot"); 
+    src: url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.woff") format("woff"), url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/74289200c4708a325f6db6f09d081270.svg#WildScratch") format("svg"); 
+}
+
+h1{
+    font-family: WildScratch;
+}
