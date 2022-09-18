@@ -6,6 +6,6 @@ function setTitle(titleSelect){
         case 'smart-mastermind': val = "SMART | MASTERMIND"; break;
         case 'wise-sleuth': val = "WISE | SLEUTH"; break;
     }
-    document.getElementById('class-title').value = val;
+    document.getElementById('class-title').innerHTML = val;
     console.log("I am being reached");
 }
